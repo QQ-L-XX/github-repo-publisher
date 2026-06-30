@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Repo Publisher"
+  short_description: "Publish polished bilingual GitHub repositories"
+  default_prompt: "Use $github-repo-publisher to create or update a GitHub repository, push the project, and polish the bilingual repository page."
